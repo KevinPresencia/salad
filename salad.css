@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Nunito+Sans:ital,wght@1,200&family=Nunito:ital,wght@1,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #c1f5c7;  
+}
+#titleName{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 2em;
+    align-items: center;
+    font-family: Merriweather', serif; 
+}
+#salad{
+    padding: 10px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Merriweather', serif; 
+}
+#benefitsParagraph{
+    font-size: 1em;
+    text-align: center;
+    align-items: center;
+    font-family: Merriweather', serif; 
+}
+#stepForVegetableSalad{
+    font-size: 1em;
+    padding-bottom: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Merriweather', serif; 
+}
+#benefits{
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    font-family: Merriweather', serif; 
+}
+#steps{
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Merriweather', serif; 
+}
+hr{
+    padding: 20px;
+}
+#footerText{
+    font-size: 1em;
+    text-align: center;
+    align-items: center;
+    font-family: Merriweather', serif; 
+}
+
+
+
+
